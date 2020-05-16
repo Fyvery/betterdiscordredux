@@ -410,7 +410,7 @@
 
 /* BEGIN PUBLIC SERVERS */
 /* ==================== */
-/*#bd-pub-li {
+#bd-pub-li {
   height: 20px;
   margin-bottom: 10px;
   overflow: hidden;
@@ -610,7 +610,7 @@ color: #f6f6f7;
   border-radius: 3px;
   outline: none;
   transition: background-color .15s ease,border .15s ease;
-}*/
+}
 /* ==================== */
 /*  END PUBLIC SERVERS  */
 
